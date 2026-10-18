@@ -27,9 +27,10 @@ English · [한국어](README.ko.md)
 
 ## Why KeyDeck
 
-Stop hunting through the Dock or ⌘-Tabbing ten times. Give each app you use every day its own shortcut — <kbd>⌥</kbd><kbd>S</kbd> for Safari, <kbd>⌥</kbd><kbd>N</kbd> for Notes — and it's there the moment you press it.
+Stop hunting through the Dock or ⌘-Tabbing ten times. Give each app you use every day its own shortcut — <kbd>⌥</kbd><kbd>S</kbd> for Safari, <kbd>⌥</kbd><kbd>N</kbd> for Notes — and it's there the moment you press it. Press it again and you're right back where you were.
 
 - **Launch or switch** — Opens the app if it's closed, brings it to the front if it's already running.
+- **Press again to go back** — Hit the same shortcut once more to return to the app you were just using.
 - **Any combination** — Mix <kbd>⌃</kbd> <kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> with any letter, number or symbol.
 - **No conflicts** — Duplicate shortcuts are caught the moment you record them.
 - **Stays out of the way** — Lives in the menu bar. Hide the icon entirely if you like.
@@ -44,7 +45,7 @@ Stop hunting through the Dock or ⌘-Tabbing ten times. Give each app you use ev
 
 1. Download the latest **KeyDeck.dmg** from [Releases](https://github.com/yes2310/KeyDeck/releases/latest).
 2. Open it and drag **KeyDeck** into **Applications**.
-3. Launch KeyDeck, click **Add App…**, and press your shortcut.
+3. Launch KeyDeck, click **Add App…**, and press your shortcut. Press it again to jump back.
 
 > [!TIP]
 > Hid the menu bar icon? Just open KeyDeck again from Spotlight or Applications to bring the settings window back.
