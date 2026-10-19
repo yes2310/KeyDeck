@@ -31,6 +31,7 @@ Stop hunting through the Dock or ⌘-Tabbing ten times. Give each app you use ev
 
 - **Launch or switch** — Opens the app if it's closed, brings it to the front if it's already running.
 - **Press again to go back** — Hit the same shortcut once more to return to the app you were just using.
+- **Any app, even Finder** — Pick from your Applications folder or straight from the apps that are running right now.
 - **Any combination** — Mix <kbd>⌃</kbd> <kbd>⌥</kbd> <kbd>⇧</kbd> <kbd>⌘</kbd> with any letter, number or symbol.
 - **No conflicts** — Duplicate shortcuts are caught the moment you record them.
 - **Stays out of the way** — Lives in the menu bar. Hide the icon entirely if you like.
